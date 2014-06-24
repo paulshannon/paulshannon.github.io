@@ -1,0 +1,25 @@
+---
+layout: layout
+title: "Python"
+tab: "about"
+---
+
+## Platform
+  - [setuptools](https://pypi.python.org/pypi/setuptools)
+  - [pip](http://pip.readthedocs.org/en/latest/)
+  - [virtualenv](http://virtualenv.readthedocs.org/en/latest/)
+  - [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/)
+
+## [Django](https://www.djangoproject.com/)
+  - [Haystack](http://haystacksearch.org/)
+  - [Django Suit](http://djangosuit.com/)
+  - [django-mptt](https://github.com/django-mptt/django-mptt/)
+  - [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar)
+
+## other libs
+  - [requests](http://docs.python-requests.org/en/latest/)
+
+## Related
+- [Liclipse](http://brainwy.github.io/liclipse/) ([eclipse](http://eclipse.org/) + [pydev](http://pydev.org/))
+- [Windows Binaries](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
