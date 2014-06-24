@@ -1,3 +1,9 @@
+---
+layout: layout
+title: "Technology"
+tab: "about"
+---
+
 ## Cross-Platform
 
 - [Python](https://www.python.org/)
