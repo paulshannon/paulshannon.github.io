@@ -1,0 +1,39 @@
+---
+layout: layout
+title: "Blog"
+tab: "blog"
+---
+
+<section class="content">
+
+<h1 class="thin">Blog <a href="/blog/atom.xml" class="pull-right"><i class="fa fa-rss"></i></a></h1>
+
+
+{% for post in site.categories.blog limit:10 %}
+
+	<article>
+		<h2>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</h2>
+
+		<section class="byline">
+			{{ post.date | date: "%B %e, %Y" }}
+		</section>
+
+		{{ post.content }}
+
+	</article>
+
+	<hr />
+
+{% endfor %}
+
+<h3>Previous posts</h3>
+	<ul class="listing">
+		{% for post in site.categories.blog offset:10 %}
+			<li>
+				<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+</section>

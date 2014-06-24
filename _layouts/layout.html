@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>{{ page.title }}</title>
+
+	<meta name="author" content="{{ site.author.name }}" />
+	<meta name="description" content="{{ site.description }}" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="alternate" data-scope="global" type="application/rss+xml" href="/atom.xml" />
+	<link rel="alternate" data-scope="blog" type="application/rss+xml" href="/blog/atom.xml" />
+
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/yeti/bootstrap.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+
+	<link href="/css/paulshannon.css" rel="stylesheet">
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" href="/favicon.ico" />
+
+</head>
+
+<body>
+  {% include navbar.html %}
+
+  <div class="container">
+    {{ content }}
+  </div>
+
+  {% include footer.html %}
+  {% include analytics.html %}
+
+</body>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+</html>

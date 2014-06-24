@@ -1,0 +1,18 @@
+title : Paul Shannon
+production_url : http://paulshannon.github.io
+description: "Things by Paul Shannon."
+
+author :
+  name : Paul Shannon
+  github : paulshannon
+  twitter : paulshannon
+  email: paul@paulshannon.ca
+
+disqus_shortname: paulshannon
+analytics: UA-196062-4
+
+permalink: /:categories/:year/:month/:day/:title
+pygments: true
+markdown: redcarpet
+
+exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]

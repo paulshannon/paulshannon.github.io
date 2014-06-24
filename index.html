@@ -1,0 +1,25 @@
+---
+layout: layout
+title: "Posts"
+tab: "home"
+---
+
+<section class="content">
+
+<div class="row">
+  <div class="col-md-7">
+	<h2 class="thin"><a href="/blog/">Blog</a> <a href="/blog/atom.xml" class="pull-right"><i class="fa fa-rss"></i></a></h2>
+	<ul class="listing">
+		{% for post in site.categories.blog limit:10 %}
+			<li>
+				<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+  </div>
+  <div class="col-md-5">
+  </div>
+</div>
+
+
+</section>
