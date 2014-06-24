@@ -27,3 +27,6 @@ tab: "about"
 
 - [Github for Windows](https://windows.github.com/)
 - [WinMerge](http://winmerge.org/)
+- [Lightshot](http://app.prntscr.com/en/)
+- [Teracopy](http://codesector.com/teracopy)
+- [Keepass](http://keepass.info/)
