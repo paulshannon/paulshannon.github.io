@@ -25,6 +25,7 @@ tab: "about"
 
 ## Windows
 - [Git for Windows](http://msysgit.github.io/)
+- [gitcredentialstore](http://gitcredentialstore.codeplex.com/)
 - [WinMerge](http://winmerge.org/)
 - [Lightshot](http://app.prntscr.com/en/)
 - [Teracopy](http://codesector.com/teracopy)
