@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Installing from github without git"
+date: 2015-06-24 12:00:00
 tags: "python, pip, git, github"
 ---
 
