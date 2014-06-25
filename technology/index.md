@@ -24,8 +24,7 @@ tab: "about"
 - [Apache](https://httpd.apache.org/)
 
 ## Windows
-
-- [Github for Windows](https://windows.github.com/)
+- [Git for Windows](http://msysgit.github.io/)
 - [WinMerge](http://winmerge.org/)
 - [Lightshot](http://app.prntscr.com/en/)
 - [Teracopy](http://codesector.com/teracopy)

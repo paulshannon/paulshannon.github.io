@@ -18,6 +18,7 @@ tab: "about"
 
 ## other libs
   - [requests](http://docs.python-requests.org/en/latest/)
+  - [pygit2](http://www.pygit2.org/)
 
 ## Related
 - [Liclipse](http://brainwy.github.io/liclipse/) ([eclipse](http://eclipse.org/) + [pydev](http://pydev.org/))
