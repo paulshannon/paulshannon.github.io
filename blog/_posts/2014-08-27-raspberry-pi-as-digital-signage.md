@@ -6,6 +6,8 @@ categories: []
 tags: pi, linux, signage
 ---
 
+I've setup some digital signage using a very simple django app and a webpage that displays rotating advertisements for upcoming events as well as news headlines and the current time. We're switching over to running the displays over some [Raspberry Pis](http://www.raspberrypi.org/) and this is how I configured them:
+
 1. [Set to boot into desktop](http://www.raspberrypi.org/documentation/configuration/raspi-config.md)
 
 	```
@@ -18,7 +20,7 @@ tags: pi, linux, signage
 	sudo dpkg-reconfigure tzdata
 	```
 
-3. [Setup to boot to browser](http://www.niteoweb.com/blog/raspberry-pi-boot-to-browser)
+3. [Setup to boot to fullscreen browser](http://www.niteoweb.com/blog/raspberry-pi-boot-to-browser)
 
 	Disable screen sleep -- so the screen stays on
 		
@@ -50,3 +52,24 @@ tags: pi, linux, signage
 	```
 	passwd
 	```
+
+5. [Force Resolution](http://weblogs.asp.net/bleroy/getting-your-raspberry-pi-to-output-the-right-resolution)
+
+	1. Get the list of what’s supported by your monitor:
+
+		tvservice -d edid
+		edidparser edid
+
+	2. Find the mode that you want in the resulting list. The mode number is the one between parentheses.
+
+	3. Edit the config file:
+
+		sudo nano /boot/config.txt
+
+		hdmi_group=2
+		hdmi_mode=<mode>
+
+	4. Reboot:
+
+		sudo reboot
+	
