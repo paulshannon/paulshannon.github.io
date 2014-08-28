@@ -23,8 +23,10 @@ tab: "about"
 - [Apache](https://httpd.apache.org/)
 
 ## Windows
+- [Cygwin](http://www.cygwin.com/)
 - [Git for Windows](http://msysgit.github.io/)
 - [gitcredentialstore](http://gitcredentialstore.codeplex.com/)
+- [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
 - [WinMerge](http://winmerge.org/)
 - [Lightshot](http://app.prntscr.com/en/)
 - [Teracopy](http://codesector.com/teracopy)
