@@ -13,14 +13,10 @@ tab: "about"
 - [Html](http://www.w3.org/html/)
   - [Bootstrap](http://getbootstrap.com/)
 - [Eclipse](http://eclipse.org/)
-- [Sublime Text](http://www.sublimetext.com/)
-  - [Package Control](https://sublime.wbond.net/)
-  - [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
-  - [sublime-jekyll](https://github.com/23maverick23/sublime-jekyll)
-- [7-zip](http://www.7-zip.org/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Solr](http://lucene.apache.org/solr/)
 - [Postgres](http://www.postgresql.org/)
-- [Apache](https://httpd.apache.org/)
+- [Nginx](http://wiki.nginx.org/Main)
 
 ## Windows
 - [Cygwin](http://www.cygwin.com/)
