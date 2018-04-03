@@ -1,0 +1,51 @@
+I hereby claim:
+
+  * I am an admin of http://paulshannon.ca
+  * I am paulshannon (https://keybase.io/paulshannon) on keybase.
+  * I have a public key ASCL6DzxBWtDFRIMpKYb7_5x2H3o-LtMFbf-PEzxRv5aiQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208be83cf1056b4315120ca4a61beffe71d87de8f8bb4c15b7fe3c4cf146fe5a890a",
+      "host": "keybase.io",
+      "kid": "01208be83cf1056b4315120ca4a61beffe71d87de8f8bb4c15b7fe3c4cf146fe5a890a",
+      "uid": "91d4eef4119e3f45612bdac46caffb19",
+      "username": "paulshannon"
+    },
+    "merkle_root": {
+      "ctime": 1522773377,
+      "hash": "aec44a631f2f2f4812e93d3184082579d2defd2e90aa77938167501280db3bb13bd53145f302f398d0ec983edbb85e343d3578bfa4a86e20e02b13bd7092cbb4",
+      "hash_meta": "ce11315f91c3a2855b499b641c8969dbcf9202563be476bbabe6ad5467bb02f1",
+      "seqno": 2328732
+    },
+    "service": {
+      "hostname": "paulshannon.ca",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522773388,
+  "expire_in": 504576000,
+  "prev": "9ab93ac0d9cd0a665218e72a9c1ba9df3a61b9244e48c2513b37ec13dd8cdf0c",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi+g88QVrQxUSDKSmG+/+cdh96Pi7TBW3/jxM8Ub+WokKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGJlODNjZjEwNTZiNDMxNTEyMGNhNGE2MWJlZmZlNzFkODdkZThmOGJiNGMxNWI3ZmUzYzRjZjE0NmZlNWE4OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGJlODNjZjEwNTZiNDMxNTEyMGNhNGE2MWJlZmZlNzFkODdkZThmOGJiNGMxNWI3ZmUzYzRjZjE0NmZlNWE4OTBhIiwidWlkIjoiOTFkNGVlZjQxMTllM2Y0NTYxMmJkYWM0NmNhZmZiMTkiLCJ1c2VybmFtZSI6InBhdWxzaGFubm9uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyNzczMzc3LCJoYXNoIjoiYWVjNDRhNjMxZjJmMmY0ODEyZTkzZDMxODQwODI1NzlkMmRlZmQyZTkwYWE3NzkzODE2NzUwMTI4MGRiM2JiMTNiZDUzMTQ1ZjMwMmYzOThkMGVjOTgzZWRiYjg1ZTM0M2QzNTc4YmZhNGE4NmUyMGUwMmIxM2JkNzA5MmNiYjQiLCJoYXNoX21ldGEiOiJjZTExMzE1ZjkxYzNhMjg1NWI0OTliNjQxYzg5NjlkYmNmOTIwMjU2M2JlNDc2YmJhYmU2YWQ1NDY3YmIwMmYxIiwic2Vxbm8iOjIzMjg3MzJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicGF1bHNoYW5ub24uY2EiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIyNzczMzg4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjlhYjkzYWMwZDljZDBhNjY1MjE4ZTcyYTljMWJhOWRmM2E2MWI5MjQ0ZTQ4YzI1MTNiMzdlYzEzZGQ4Y2RmMGMiLCJzZXFubyI6MTUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAgGiypnvBUFq+/i1l6yy9dWb+8afHfpwpvfsLSc8OepmvTT8kJNUyE3CA+j5ITp0dm9UUkCXlQsE7ybtVfrziC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHQJwMKOlV4CEAQyHBAlJjrwQET9hvCJoCAc6aUphMkXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/paulshannon
+
+==================================================================
