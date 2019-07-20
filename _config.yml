@@ -15,4 +15,4 @@ permalink: /:categories/:year/:month/:day/:title
 highlighter: rouge
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
-exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
+exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components, vendor ]
